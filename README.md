@@ -1,5 +1,5 @@
 # Video2Sprite
-
+instant use access：https://video2sprite.cc.cd/
 一个纯浏览器端的 2D 游戏精灵图处理工具，无需后端，完全本地运行。
 
 ## 功能
